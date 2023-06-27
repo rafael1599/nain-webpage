@@ -1,0 +1,55 @@
+.header{
+    height: 100px;
+    background-color: #792C2F;
+    color: #FFEC71;
+}
+
+.navbar{
+    display: flex;
+    width: 1320px;
+    justify-content: space-between;
+}
+
+.navbar__logo{
+    display: flex;
+    height: 94px ;
+    width: 130px;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar__options{
+    display: flex;
+}
+
+.navbar__box{
+    display: flex;
+    height: 94px ;
+    width: 130px;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar__box p{
+    width: 100px;
+    font-size: 20px;
+}
+.navbar__social{
+    display: flex;
+}
+
+.navbar__icons{
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.navbar__iconsBox{
+    height: 94px ;
+    width: 60px;
+    align-items: center;
+}
+
+.main img{
+    width: 100%;
+}
